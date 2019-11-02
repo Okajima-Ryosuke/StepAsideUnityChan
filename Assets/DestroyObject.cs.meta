@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1e62a6b622fb4a8a9b12ab794382399
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoinClone: {instanceID: 0}
+  - ConeClone: {instanceID: 0}
+  - CarClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
